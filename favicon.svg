@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Slate">
+  <rect width="64" height="64" rx="14" fill="#FFFFFF"/>
+  <!-- the slash traced off LOGOFINAL: a parallelogram leaning 33.9 degrees,
+       not the 17 degree skew this was drawn with before -->
+  <polygon points="40.32,10 53.16,10 23.59,54 10.75,54" fill="#2868F8"/>
+</svg>
